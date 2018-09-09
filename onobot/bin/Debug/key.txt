@@ -1,0 +1,82 @@
+{
+
+"key":"LxCsMkS19iXah_oNtnSDVa5J",
+
+"secret":"wom8aFGMaCBqmStOjWYMfwur-le2-H5dIuFSVl-gFYkad2iy",
+
+"domain":"https://testnet.bitmex.com",
+
+"pair":"XBTUSD",
+
+"contract":1000,
+
+"profit":0.2,
+
+"fee":0.075,
+
+"long":"enable",
+
+"short":"enable",
+
+"interval":2000,
+
+"intervalOrder":60000,
+
+"timeGraph":"1m",
+
+
+
+"indicatorsEntry":[
+
+	{
+		
+"name":"CCI",
+
+		"period":8
+	},
+	{
+		
+"name":"RSI",
+
+		"period":8
+	},
+	{
+		
+"name":"BBANDS",
+
+		"period":7
+	}	
+],
+
+
+
+"indicatorsEntryCross":[
+
+
+		{
+			
+"name":"MA",
+
+			"period":5
+		}
+
+
+],
+
+"indicatorsEntryDecision":[
+
+
+	{
+		
+"name":"RSI",
+
+		"period":8,
+		"decision":"enable",
+		"decisionPoint":40,
+		"tendency":"enable"
+	}
+	
+
+	]
+
+}

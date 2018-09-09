@@ -1,0 +1,4 @@
+C:\Users\Home\Desktop\onobot\obj\Debug\ONOBOT.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\onobot\obj\Debug\ONOBOT.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\onobot\obj\Debug\BitBotBackToTheFuture.exe
+C:\Users\Home\Desktop\onobot\obj\Debug\BitBotBackToTheFuture.pdb
